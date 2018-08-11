@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jaat01/Code/react-native/manager/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/jaat01/Code/react-native/manager/node_modules/react-native/React/Base/RCTPerformanceLogger.h
